@@ -1,6 +1,6 @@
 # License
 
-**Piel de ángel enamorado**
+**Piel de ángel enamorado, Vol. 2**
 
 Copyright (c) 2026 Abu Sayed. All Rights Reserved.
 

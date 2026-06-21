@@ -1,4 +1,4 @@
-# Piel de ángel enamorado
+# Piel de ángel enamorado, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Piel de ángel enamorado |
+| **Title** | Piel de ángel enamorado, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/piel-de-angel-enamorado/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Piel de ángel enamorado](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-de-angel-enamorado/) |
+| **Get License** | [Secure Licensing Rights for Piel de ángel enamorado, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-de-angel-enamorado/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Me miras de lejos, tu cuerpo me llama en la pista
+> Un pase privado, sabes que te tengo en mi lista
+> Tu piel de ángel brilla, me envuelve en tu fuego letal
+> Esta noche es nuestra, un deseo que suena inmortal
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,8 +110,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **SHA-256 Hash** | `e52718b6497e515c8de49251a915c0b7abcc3172618d973c88c772795bca12bc` |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
